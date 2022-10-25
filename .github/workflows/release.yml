@@ -19,7 +19,6 @@ jobs:
         with:
           node-version: 12
           registry-url: "https://registry.npmjs.org"
-          scope: "@types"
 
       - name: Configure committer
         run: |
