@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: 12
           registry-url: "https://registry.npmjs.org"
-          scope: "@dioxide-js"
+          scope: "@types"
 
       - name: Configure committer
         run: |
